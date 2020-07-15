@@ -1,0 +1,265 @@
+
+ul{
+    color: #DDDDDD!important;
+}
+h1{
+    color: #001f3f;
+    text-align: center;
+    padding-top: 70px;
+}
+
+@media (min-width: 992px){
+    .navbar li {
+        margin-left : 5em;
+        margin-right : 1em;
+        font-size: 20px;
+    }
+    .navbar a{
+        color:#001f3f;
+       
+    }
+}
+.main{
+    padding-top: 120px; 
+   
+}
+
+.main2{
+    padding-top: 120px; 
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  
+  
+}
+.card{
+    height: 250px;
+    
+}
+.card-header{
+    color:white !important;
+    background-color:black!important;
+    font-size: 20px!important;
+    height: 50px;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.card-body{
+    
+    color:black !important;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#slide{
+    width: 800px;
+}
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 80px;
+  }
+  
+  
+  .example_e {
+    border: none;
+    background:black;
+    color: #DDDDDD   !important;
+    font-weight: 100;
+    padding: 20px;
+    text-transform: uppercase;
+    border-radius: 6px;
+    display: inline-block;
+    transition: all 0.3s ease 0s;
+    }
+    .example_e:hover {
+    color: #404040 !important;
+    font-weight: 700 !important;
+    letter-spacing: 3px;
+    background: none;
+    content: "Lets go";
+    -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+    -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+    transition: all 0.3s ease 0s;
+    }
+    .row{
+        padding-top: 20px;
+    }
+/* display component */
+.img_side{
+    height: 150px;
+}
+.img_mid{
+    height: 200px;
+}
+.imgdiv{
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+    
+    
+}
+.link{
+    padding-top: 30px;
+}
+.box{
+    border: 1px solid #eee;
+    margin: 0;
+    padding: 0;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+    border-radius: 50px 10px 50px 10px;
+    position:relative;
+    background-color: #F5FFFA;
+    
+    
+    
+
+    
+}
+.fas{
+    font-family: FontAwesome !important;
+   }
+.box:hover {
+    box-shadow: 0 8px 12px 0 rgba(0,0,0,0.6)
+  }
+
+.header{
+   position: absolute;
+   top:.5rem;
+   left: .5rem;
+   right: .5rem;
+   text-align: center;
+   text-transform: uppercase;
+    font-weight: bold;
+   
+}
+.padding-0{
+    padding-right:30px;
+    padding-left:30px;
+}
+.name{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    color:black;
+   font-family: 'Times New Roman', Times, serif;
+  
+    font-size: x-large;
+}
+ .feature{
+   align-items: center;
+   display: flex;
+   margin: .5rem;
+   margin-right: .5rem;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: medium;
+   
+   
+ } 
+ 
+ .divider{
+     height: 0.2px;
+     width: 100%;
+     background-color: rgba(0,0,0,0.2);
+     margin-top: 1rem;
+     padding-bottom: 0.2rem;
+     background-color: #001f3f;
+ }
+ .svg{
+     padding-right: 5px;
+     
+ }
+ .cir{
+     height: 120px;
+     padding-bottom: 1rem;
+     padding-top: 1rem;
+     
+ }
+.smarticon{
+    width: 50%;
+    margin-left: 1rem;
+    padding-bottom: 1rem;
+}
+.first{
+    font-weight: bolder;
+    
+    
+    
+}
+.list {
+    
+    border-radius:0px 0px 50px 10px;
+}
+.feature.side{
+    color: #001f3f;
+    
+    
+}
+.list.mid{
+    background-color: white;
+    color:black
+}
+.divider.mid{
+    background-color: black;
+}
+.list.side{
+    background-color: #F5FFFA;
+}
+.key{
+    font-size: x-large!important;
+   padding-bottom: 0.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 0.5rem;
+    
+}
+.box.first{
+    background-color: white;
+}
+.cir.mid{
+    height: 140px;
+}
+@media (max-width: 768px) {
+
+    [class*="col-"] {
+        margin-bottom: 15px;
+    }
+  
+  }
+  .feature.mid{
+      font-size: medium;
+      font-weight: 900;
+  }
+.disp{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,12,149,1) 51%, rgba(0,212,255,1) 100%);
+position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  overflow: auto;
+  padding-top: 100px;
+  
+}
+.bs-example{
+    margin: 20px;
+}
+.himage{
+    height: 60px;
+}
+.bname{
+    font-size: xx-large;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sname{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bheader{
+    font-weight: bold;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 2rem;
+}
+/* footter */

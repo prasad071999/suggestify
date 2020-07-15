@@ -1,0 +1,797 @@
+{
+  "phones": [
+    {
+      "id": "rm6",
+      "cost": 14,
+      "name": "Realme 6",
+      "score": 30,
+      "image": "../images/Realme6.jpeg",
+      "display": {
+        "score": 10,
+        "type": "1"
+      },
+      "gaming": {
+        "score": 11.5,
+        "type": "2"
+      },
+      "camera": {
+        "score": 9,
+        "type": "1"
+      },
+      "battery_charg": {
+        "score": 12,
+        "type": "2"
+      },
+      "looks_dur": {
+        "score": 9,
+        "type": "1"
+      },
+      "comment": [
+        "90Hz Panel",
+        "Helio G90T Powerful Processor",
+        "30W VOOC 4.0 Charger",
+        "64MP Quad Camera Array"
+      ]
+    },
+    {
+      "id": "rm9pro",
+      "cost": 14,
+      "name": "Redmi Note 9 Pro",
+      "score": 28,
+      "image": "../images/Rnote9pro.jpeg",
+      "display": {
+        "score": 9,
+        "type": "1"
+      },
+      "gaming": {
+        "score": 11,
+        "type": "2"
+      },
+      "camera": {
+        "score": 9,
+        "type": "1"
+      },
+      "battery_charg": {
+        "score": 8,
+        "type": "2"
+      },
+      "looks_dur": {
+        "score": 7,
+        "type": "2"
+      },
+      "comment": [
+        "5000MaH Big Battery",
+        "Snapdragon 720G AIE",
+        "NAVIC Support",
+        "48Mp Quad Camera Array"
+      ]
+    },
+    {
+      "id": "sm31",
+      "cost": 16,
+      "score": 29,
+      "name": "Samsung M31",
+      "image": "../images/Sm31.jpg",
+      "display": {
+        "score": 12,
+        "type": "2"
+      },
+      "camera": {
+        "score": 9.5,
+        "type": "1"
+      },
+      "gaming": {
+        "score": 7.5,
+        "type": "2"
+      },
+      "battery_charg": {
+        "score": 9,
+        "type": "2"
+      },
+      "looks_dur": {
+        "score": 9,
+        "type": "1"
+      },
+      "comment": [
+        "6000MaH Big Battery",
+        "SuperAmoled Display",
+        "One UI",
+        "64Mp Quad Camera Array"
+      ]
+    },
+    {
+      "id": "rc3",
+      "cost": 7,
+      "name": "Realme C3",
+      "image": "../images/rc3.jpeg",
+      "score": 18,
+      "display": {
+        "score": 6,
+        "type": "1"
+      },
+      "gaming": {
+        "score": 8,
+        "type": "1"
+      },
+      "camera": {
+        "score": 5,
+        "type": "0"
+      },
+      "battery_charg": {
+        "score": 7,
+        "type": "2"
+      },
+      "looks_dur": {
+        "score": 7,
+        "type": "1"
+      },
+      "comment": [
+        "5000MaH Big Battery",
+        "Large HD+ Display",
+        "Helio G70 Processor",
+        "12MP AI Dual Camera"
+      ]
+    },
+    {
+      "id": "op8",
+      "cost": 44,
+      "name": "OnePlus 8",
+      "score": 43,
+      "image": "../images/op8.jpeg",
+      "display": {
+        "score": 13,
+        "type": "2"
+      },
+      "camera": {
+        "score": 12.5,
+        "type": "2"
+      },
+      "gaming": {
+        "score": 14,
+        "type": "2"
+      },
+      "battery_charg": {
+        "score": 12,
+        "type": "0"
+      },
+      "looks_dur": {
+        "score": 13,
+        "type": "0"
+      },
+      "comment": [
+        "Oxygen OS",
+        "90Hz Fluid Display(Amoled)",
+        " Qualcomm SnapDragon 865 Extreme Processor ",
+        "48MP Triple Camera (IMX586)"
+      ]
+    },
+    {
+      "id": "sa51",
+      "cost": 22,
+      "score": 31,
+      "name": "Samsung A51",
+      "image": "../images/Sa51.webp",
+      "display": {
+        "score": 12,
+        "type": "1"
+      },
+      "gaming": {
+        "score": 7.5,
+        "type": "2"
+      },
+      "camera": {
+        "score": 11,
+        "type": "1"
+      },
+      "battery_charg": {
+        "score": 9,
+        "type": "1"
+      },
+      "looks_dur": {
+        "score": 10,
+        "type": "1"
+      },
+      "comment": [
+        "One UI",
+        "Infinity-O sAMOLED display",
+        "Samsung Pay",
+        "48MP Quad Camera Array"
+      ]
+    },
+    {
+      "id": "vu20",
+      "cost": 12,
+      "name": "Vivo U20",
+      "score": 26,
+      "image": "../images/vu20.jpg",
+      "display": {
+        "score": 8,
+        "type": "1"
+      },
+      "gaming": {
+        "score": 8,
+        "type": "2"
+      },
+      "camera": {
+        "score": 7,
+        "type": "0"
+      },
+      "battery_charg": {
+        "score": 8,
+        "type": "1"
+      },
+      "looks_dur": {
+        "score": 8,
+        "type": "1"
+      },
+      "comment": [
+        "Vivo MultiTurbo Support",
+        "Qualcomm Snapdragon 675 AIE",
+        "18W Fast Charge with 5000MaH Battery",
+        "AI Triple Camera (Sony IMX499)"
+      ]
+    },
+    {
+      "id": "sm11",
+      "cost": 12,
+      "name": "Samsung M11",
+      "score": 22,
+      "image": "../images/sm11.jpeg",
+      "display": {
+        "score": 5,
+        "type": "1"
+      },
+      "gaming": {
+        "score": 4,
+        "type": "1"
+      },
+      "camera": {
+        "score": 5,
+        "type": "0"
+      },
+      "battery_charg": {
+        "score": 6,
+        "type": "0"
+      },
+      "looks_dur": {
+        "score": 5,
+        "type": "1"
+      },
+      "comment": [
+        "Dolby Atmos Sound",
+        "Infinity-O HD+ Display ",
+        "15W Fast Charge with 5000MaH Battery",
+        "13MP Triple Camera"
+      ]
+    },
+    {
+      "id": "mfp",
+      "cost": 17,
+      "name": "Moto One Fusion Plus",
+      "score": 31,
+      "image": "../images/mfp.jpeg",
+      "display": {
+        "score": 9,
+        "type": "1"
+      },
+      "gaming": {
+        "score": 12,
+        "type": "2"
+      },
+      "camera": {
+        "score": 10.5,
+        "type": "1"
+      },
+      "battery_charg": {
+        "score": 9,
+        "type": "0"
+      },
+      "looks_dur": {
+        "score": 9,
+        "type": "1"
+      },
+      "comment": [
+        "16Mp PopUp Front camera/Moto Actions",
+        "Qualcomm SnapDragon 730G Proccesor",
+        "HDR10 Certified Full HD+ Display",
+        "64 MP Quad Camera Array"
+      ]
+    },
+    {
+      "id": "px2",
+      "cost": 18,
+      "name": "Poco X2",
+      "score": 32,
+      "image": "../images/px2.jpeg",
+      "display": {
+        "score": 9.5,
+        "type": "1"
+      },
+      "gaming": {
+        "score": 12,
+        "type": "2"
+      },
+      "camera": {
+        "score": 11.5,
+        "type": "0"
+      },
+      "battery_charg": {
+        "score": 10,
+        "type": "1"
+      },
+      "looks_dur": {
+        "score": 8,
+        "type": "2"
+      },
+      "comment": [
+        "120Hz Reality Flow Display",
+        "Qualcomm SnapDragon 730G Proccesor",
+        "27W Fast Charge with 4500MaH Battery",
+        "64Mp Quad Camera (Sony IMX 686)"
+      ]
+    },
+    {
+      "id": "rx3",
+      "cost": 26,
+      "name": "Realme X3",
+      "score": 36.5,
+      "image": "../images/rx3.jpeg",
+      "display": {
+        "score": 9.5,
+        "type": "0"
+      },
+      "gaming": {
+        "score": 13,
+        "type": "2"
+      },
+      "camera": {
+        "score": 12,
+        "type": "1"
+      },
+      "battery_charg": {
+        "score": 12,
+        "type": "1"
+      },
+      "looks_dur": {
+        "score": 11,
+        "type": "2"
+      },
+      "comment": [
+        "Liqiuid Cooling with UFS 3.0",
+        "Qualcomm SnapDragon 855+ Proccesor",
+        "120HZ FHD+ Display",
+        "64 MP Quad Camera/Dual InDisplay Selfir"
+      ]
+    },
+    {
+      "id": "rn10a",
+      "cost": 9,
+      "name": "Realme Narzo 10A",
+      "score": 18.5,
+      "image": "../images/rn10a.jpeg",
+      "display": {
+        "score": 6.5,
+        "type": "1"
+      },
+      "gaming": {
+        "score": 7.5,
+        "type": "2"
+      },
+      "camera": {
+        "score": 5.5,
+        "type": "0"
+      },
+      "battery_charg": {
+        "score": 7,
+        "type": "2"
+      },
+      "looks_dur": {
+        "score": 7,
+        "type": "0"
+      },
+      "comment": [
+        "5000Mah Battery with Reverse Charging",
+        "Meditek Helio G70",
+        "Realme UI",
+        "AI Triple Camera"
+      ]
+    },
+    {
+      "id": "ip11",
+      "cost": 68,
+      "name": "Apple Iphone 11",
+      "score": 45.2,
+      "image": "../images/ip11.jpeg",
+      "display": {
+        "score": 13,
+        "type": "0"
+      },
+      "gaming": {
+        "score": 15,
+        "type": "2"
+      },
+      "camera": {
+        "score": 13,
+        "type": "2"
+      },
+      "battery_charg": {
+        "score": 5,
+        "type": "2"
+      },
+      "looks_dur": {
+        "score": 13,
+        "type": "0"
+      },
+      "comment": [
+        "Splash, Water and Dust Resistant(IP68)",
+        "Apple A13 Bionic chip",
+        "Dual 12MP Ultra Wide (OIS)",
+        "IOS 13/Face ID"
+      ]
+    },
+    {
+      "id": "ss10l",
+      "cost": 68,
+      "name": "Samsung Galaxy Note 10 Lite",
+      "score": 44.5,
+      "image": "../images/ss10l.jpeg",
+      "display": {
+        "score": 12,
+        "type": "0"
+      },
+      "gaming": {
+        "score": 13,
+        "type": "2"
+      },
+      "camera": {
+        "score": 12,
+        "type": "2"
+      },
+      "battery_charg": {
+        "score": 10,
+        "type": "2"
+      },
+      "looks_dur": {
+        "score": 12,
+        "type": "0"
+      },
+      "comment": [
+        "Super AMOLED Infinity-O Display",
+        "Qualcomm Snapdragon 855",
+        "48Mp Camera with OIS",
+        "Indisplay Fingerprint/2 Day Battery Life"
+      ]
+    },
+    {
+      "id": "r8",
+      "cost": 9,
+      "name": "Redmi 8",
+      "score": 17.5,
+      "image": "../images/r8.jpeg",
+      "display": {
+        "score": 7.5,
+        "type": "1"
+      },
+      "gaming": {
+        "score": 4.5,
+        "type": "1"
+      },
+      "camera": {
+        "score": 6,
+        "type": "0"
+      },
+      "battery_charg": {
+        "score": 8,
+        "type": "2"
+      },
+      "looks_dur": {
+        "score": 7,
+        "type": "0"
+      },
+      "comment": [
+        "5000Mah Battery with 18W Fast Charger",
+        "Aura Mirror Design",
+        "Fingerprint and Face Unlock",
+        "AI Dual Camera"
+      ]
+    },
+    {
+      "id": "mg8",
+      "cost": 10,
+      "name": "Moto G8 Power Lite",
+      "score": 16.2,
+      "image": "../images/mg8.jpeg",
+      "display": {
+        "score": 6.5,
+        "type": "1"
+      },
+      "gaming": {
+        "score": 4,
+        "type": "1"
+      },
+      "camera": {
+        "score": 6.5,
+        "type": "0"
+      },
+      "battery_charg": {
+        "score": 7.5,
+        "type": "2"
+      },
+      "looks_dur": {
+        "score": 7,
+        "type": "0"
+      },
+      "comment": [
+        "5000Mah Battery",
+        "Moto Actions",
+        "Fingerprint and Face Unlock",
+        "Triple Camera with Macro"
+      ]
+    },
+    {
+      "id": "n2_3",
+      "cost": 9,
+      "name": "Nokia 2.3",
+      "score": 14.5,
+      "image": "../images/n2_3.jpg",
+      "display": {
+        "score": 6,
+        "type": "1"
+      },
+      "gaming": {
+        "score": 4,
+        "type": "1"
+      },
+      "camera": {
+        "score": 5.5,
+        "type": "0"
+      },
+      "battery_charg": {
+        "score": 6,
+        "type": "2"
+      },
+      "looks_dur": {
+        "score": 9,
+        "type": "0"
+      },
+      "comment": [
+        "AI 2Day Battery",
+        "Aluminum Grade finish",
+        "Stock Android",
+        "13MP Dual Camera"
+      ]
+    },
+    {
+      "id": "rk20pro",
+      "cost": 27,
+      "name": "Redmi K20 Pro",
+      "score": 36.5,
+      "image": "../images/rk20pro.jpeg",
+      "display": {
+        "score": 12,
+        "type": "0"
+      },
+      "gaming": {
+        "score": 13,
+        "type": "2"
+      },
+      "camera": {
+        "score": 12,
+        "type": "2"
+      },
+      "battery_charg": {
+        "score": 8,
+        "type": "0"
+      },
+      "looks_dur": {
+        "score": 10,
+        "type": "0"
+      },
+      "comment": [
+        "Horizon Amoled Display",
+        "Aura Prime Design with Liquid Cooling",
+        "Qulcomm SnapDragon 855 Processor",
+        "20MP PopUp/Indisplay FingerPrint"
+      ]
+    },
+    {
+      "id": "v19",
+      "cost": 28,
+      "name": "Vivo V19",
+      "score": 33,
+      "image": "../images/v19.jpeg",
+      "display": {
+        "score": 12,
+        "type": "0"
+      },
+      "gaming": {
+        "score": 10,
+        "type": "2"
+      },
+      "camera": {
+        "score": 11.5,
+        "type": "2"
+      },
+      "battery_charg": {
+        "score": 11,
+        "type": "0"
+      },
+      "looks_dur": {
+        "score": 10,
+        "type": "2"
+      },
+      "comment": [
+        "Dual iView Display Amoled Display",
+        "Dual Selfie with Aura screen Light",
+        "Qulcomm SnapDragon 712 Processor",
+        "4500 MaH Battery with 33W Fast Charger"
+      ]
+    },
+
+    {
+      "id": "or3pro",
+      "cost": 30,
+      "name": "Oppo Reno 3 Pro",
+      "score": 33,
+      "image": "../images/vor3pro.jpeg",
+      "display": {
+        "score": 11.5,
+        "type": "0"
+      },
+      "gaming": {
+        "score": 8,
+        "type": "2"
+      },
+      "camera": {
+        "score": 12,
+        "type": "2"
+      },
+      "battery_charg": {
+        "score": 11,
+        "type": "0"
+      },
+      "looks_dur": {
+        "score": 10.5,
+        "type": "2"
+      },
+      "comment": [
+        "Dual Punch-hole Amoled Display",
+        "64 MP Zoom Quad Camera",
+        "108MP Image Support/Live Bokeh",
+        "VOOc 4.0 Charging"
+      ]
+    },
+    {
+      "id": "sa70s",
+      "cost": 25,
+      "score": 32.5,
+      "name": "Samsung A70s",
+      "image": "../images/sa70s.jpeg",
+      "display": {
+        "score": 12,
+        "type": "1"
+      },
+      "gaming": {
+        "score": 9,
+        "type": "2"
+      },
+      "camera": {
+        "score": 11,
+        "type": "1"
+      },
+      "battery_charg": {
+        "score": 10.5,
+        "type": "1"
+      },
+      "looks_dur": {
+        "score": 10.5,
+        "type": "1"
+      },
+      "comment": [
+        "4500MaH With 25W charger",
+        "Infinity-O sAMOLED display",
+        "Samsung Pay/SuperSteady Support",
+        "64MP Quad Camera Array"
+      ]
+    },
+    {
+      "id": "viq3",
+      "cost": 34,
+      "score": 41,
+      "name": "IOQQ 3",
+      "image": "../images/viq3.jpeg",
+      "display": {
+        "score": 13,
+        "type": "0"
+      },
+      "gaming": {
+        "score": 14,
+        "type": "2"
+      },
+      "camera": {
+        "score": 12,
+        "type": "1"
+      },
+      "battery_charg": {
+        "score": 13,
+        "type": "1"
+      },
+      "looks_dur": {
+        "score": 12,
+        "type": "1"
+      },
+      "comment": [
+        "UFS 3.1 With QS 865 Procesoor",
+        "Monster Touch Button/180Hz Response Rate",
+        "55W SUPER FlashCharge Technology",
+        "48MP Quad Camera"
+      ]
+    },
+    {
+      "id": "op7t",
+      "cost": 38,
+      "score": 40.5,
+      "name": "OnePlus 7T ",
+      "image": "../images/op7t.jpeg",
+      "display": {
+        "score": 12.5,
+        "type": "0"
+      },
+      "gaming": {
+        "score": 13,
+        "type": "2"
+      },
+      "camera": {
+        "score": 13.5,
+        "type": "2"
+      },
+      "battery_charg": {
+        "score": 12,
+        "type": "1"
+      },
+      "looks_dur": {
+        "score": 13,
+        "type": "1"
+      },
+      "comment": [
+        "Oxygen OS",
+        "90HZ Super Amoled Display",
+        "QS 855+ Processor/UFS 3.0",
+        "48MP Quad Camera(IMX 586)"
+      ]
+    },
+    {
+      "id": "rx2pro",
+      "cost": 31,
+      "score": 40,
+      "name": "Realme X2 pro ",
+      "image": "../images/rx2pro.jpeg",
+      "display": {
+        "score": 12.5,
+        "type": "0"
+      },
+      "gaming": {
+        "score": 12.5,
+        "type": "2"
+      },
+      "camera": {
+        "score": 13,
+        "type": "2"
+      },
+      "battery_charg": {
+        "score": 13,
+        "type": "1"
+      },
+      "looks_dur": {
+        "score": 13,
+        "type": "1"
+      },
+      "comment": [
+        "SuperVOOC Flash Charge 55W",
+        "90HZ Super Amoled Display",
+        "QS 855+ Processor/UFS 3.0",
+        "64MP Quad Camera(20x Hybrid Zoom)"
+      ]
+    }
+  ]
+}
